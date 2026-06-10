@@ -1,0 +1,27 @@
+/* styles.css */
+body {
+    background-color:none;
+}
+.heading {
+    margin: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-bottom: 1px solid grey;
+}
+.heading button {
+    border-style: none;
+    background: none;
+}
+nav {
+    display: flex;
+    gap: 40px;
+    margin-bottom: 15px;
+}
+#content1 {
+    margin: 100px;
+}
+
+.hidden {
+  display: none;
+}
